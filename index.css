@@ -10,7 +10,7 @@ position:relative;
     padding-top:75px;
     padding-bottom:50px;
     text-align:center;
-margin-bottom:0;
+    height:100%;
     color:#f8f8f8;
     background:url(intro-bg_1.jpg) no-repeat center center;
     background-size:cover;
@@ -30,7 +30,6 @@ position:fixed;
     color: #9d9d9d;
     bottom:0;
     width:100%;
-Height:auto;
 }
 .adds
 {
