@@ -30,5 +30,6 @@ max-width:660px;
 }
 .page-header
 {
-    margin:auto 0;
+    margin-top:auto;
+    margin-bottom:auto;
 }
