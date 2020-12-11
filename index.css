@@ -31,7 +31,7 @@ footer{
 }
 .adds
 {
-    position:relative;
-    top:10%;
-    width:100%;
+    min-height:100%;
+    margin-bottom:-40px;
+    padding-bottom:40px;
 }
