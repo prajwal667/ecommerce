@@ -28,8 +28,11 @@ max-width:660px;
     margin-bottom:-40px;
     padding-bottom:40px;
 }
-.page-header
+footer
 {
-    margin-top:15%;
-   
+background-color:black;
+color:white;
+bottom:0;
+width:100%;
 }
+
