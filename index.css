@@ -1,6 +1,7 @@
 body{
     position:relative;
     min-height:100%;
+    overflow:scroll;
 }
 #banner-image
 {
