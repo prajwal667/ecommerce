@@ -26,7 +26,7 @@ footer{
     padding:10px 0;
     background-color:#101010;
     color: #9d9d9d;
-    margin-bottom:0px;
+    bottom:0px;
     width:100%;
 }
 .adds
@@ -35,8 +35,4 @@ footer{
     top:10%;
     width:100%;
     min-height:100vh;
-}
-.applyhiddenscroll
-{
-    overflow:hidden;
 }
