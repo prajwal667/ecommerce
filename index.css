@@ -13,6 +13,7 @@ position:relative;
     color:#f8f8f8;
     background:url(intro-bg_1.jpg) no-repeat center center;
     background-size:cover;
+Height:auto;
 }
 .banner_content
 {
@@ -29,7 +30,6 @@ position:fixed;
     color: #9d9d9d;
     bottom:0;
     width:100%;
-height:auto;
 }
 .adds
 {
